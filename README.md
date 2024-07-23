@@ -1,6 +1,6 @@
 <br />
 
-<h1 align="center">FOMTOOL</h1>
+<h1 align="center">JAPAN STAMPS</h1>
 <p align="center">
     <img alt="php" src="https://img.shields.io/badge/PHP-v7.4.0-yellow">
     <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-v10.5.8-yellow">
